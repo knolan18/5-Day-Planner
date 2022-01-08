@@ -8,3 +8,4 @@ This image shows the completed assignment's appearance, and functionality:
 ![screenshot of website welcome screen](https://github.com/knolan18/5-Day-Planner/blob/main/Assets/Images/screenShot.png)
 
 ## Link to Deployed Site
+https://knolan18.github.io/5-Day-Planner/
